@@ -31,7 +31,6 @@
 *.out
 *.app
 
-3parts/*
 build/*
 daemon_server
 node_server
